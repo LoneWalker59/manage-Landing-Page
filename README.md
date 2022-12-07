@@ -12,7 +12,7 @@ Projects developed with the following technologies:
 
 ## 👩‍💻 Project
 
-This was my first project using some CSS library, in this case Tailwind CSS.
+This was my first project using CSS library, in this case Tailwind CSS.
 
 To view all projects, [click here!](<https://github.com/LoneWalker59?tab=repositories>)
 
